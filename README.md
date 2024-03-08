@@ -7,4 +7,4 @@ Repositório criado com objetivo de compartilhar e divulgar projetos devolvidos 
 
 | Projeto | Descrição |
 | ------- | ----------|
-| Sistema Bancário | Criar um sistema bancário com as operações de saque, depoósito e visualização do extrato.|
+| Sistema Bancário | Criar um sistema bancário com as operações de saque, depósito e visualização do extrato.|
