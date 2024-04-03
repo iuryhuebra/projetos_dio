@@ -1,0 +1,15 @@
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\bin\Debug\net8.0\desafioexplorando.exe
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\bin\Debug\net8.0\desafioexplorando.deps.json
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\bin\Debug\net8.0\desafioexplorando.runtimeconfig.json
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\bin\Debug\net8.0\desafioexplorando.dll
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\bin\Debug\net8.0\desafioexplorando.pdb
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.AssemblyInfoInputs.cache
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.AssemblyInfo.cs
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.csproj.CoreCompileInputs.cache
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.sourcelink.json
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.dll
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\refint\desafioexplorando.dll
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.pdb
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\desafioexplorando.genruntimeconfig.cache
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\explorando-desafio\desafioexplorando\obj\Debug\net8.0\ref\desafioexplorando.dll
