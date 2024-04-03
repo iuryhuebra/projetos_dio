@@ -14,3 +14,4 @@ Repositório criado com objetivo de compartilhar e divulgar projetos devolvidos 
 | Projeto | Descrição |
 | ------- | ----------|
 | [Sistema Estacionamento](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/fundamentos-desafio) | Criar um sistema para um estacionamento que armazena as placas dos veículos estacionados, com a possibilidade de adição e remoção, onde ao remover informa o valor cobrado pelo serviço.|
+| [Sistema de Hospedagem de um Hotel](https://github.com/iuryhuebra/projetos_dio/blob/main/dotnet/explorando-desafio) | Criar um sistema para um hotel, onde será possível adicionar suítes, hóspedes e informar o valor cobrado pela hospedagem baseado nos dias hospedado e valor da suíte.|
