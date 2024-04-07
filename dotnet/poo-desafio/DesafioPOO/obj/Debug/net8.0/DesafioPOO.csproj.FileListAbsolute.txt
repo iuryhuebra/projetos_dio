@@ -1,0 +1,15 @@
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\bin\Debug\net8.0\DesafioPOO.exe
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\bin\Debug\net8.0\DesafioPOO.deps.json
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\bin\Debug\net8.0\DesafioPOO.runtimeconfig.json
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\bin\Debug\net8.0\DesafioPOO.dll
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\bin\Debug\net8.0\DesafioPOO.pdb
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.sourcelink.json
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.dll
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\refint\DesafioPOO.dll
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.pdb
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\iuryh\Documents\cursos_dio\projetos_dio\dotnet\poo-desafio\desafiopoo\obj\Debug\net8.0\ref\DesafioPOO.dll
