@@ -17,7 +17,7 @@ Repositório criado com objetivo de compartilhar e divulgar projetos devolvidos 
 | [Sistema Hospedagem](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/explorando-desafio) | Sistema para um hotel com funcionalidades para adicionar suítes, hóspedes e informar o valor cobrado pela hospedagem baseado nos dias hospedado e valor da suíte.|
 | [Sistema Celular](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/poo-desafio) | Sistema que trabalha com celulares com paradigma de orientação a objetos com propriedades e herança nas classes Iphone e Nokia.|
 
-## ![sql-icon](/icons/sql-icon.png) SQL
+## ![sql-server-icon](/icons/sql-icon.png) SQL
 
 | Projeto | Descrição |
 | ------- | ----------|
