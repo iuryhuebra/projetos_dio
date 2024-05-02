@@ -23,4 +23,4 @@ Repositório criado com objetivo de compartilhar e divulgar projetos devolvidos 
 
 | Projeto | Descrição |
 | ------- | ----------|
-| [Consulta em banco de dados de Filmes](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/banco-de-dados-desafio) | Consultas em um banco de dados de um site de filmes baseadas em um resultado pré determinado.|
+| [Consultas em Banco de Filmes](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/banco-de-dados-desafio) | Consultas em um banco de dados de um site de filmes baseadas em um resultado pré determinado.|
