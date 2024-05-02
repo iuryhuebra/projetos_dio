@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\desafiopoo\\DesafioPOO.csproj": {}
+    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\DesafioPOO\\DesafioPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\desafiopoo\\DesafioPOO.csproj": {
+    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\DesafioPOO\\DesafioPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\desafiopoo\\DesafioPOO.csproj",
+        "projectUniqueName": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\DesafioPOO\\DesafioPOO.csproj",
         "projectName": "DesafioPOO",
-        "projectPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\desafiopoo\\DesafioPOO.csproj",
+        "projectPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\DesafioPOO\\DesafioPOO.csproj",
         "packagesPath": "C:\\Users\\iuryh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\desafiopoo\\obj\\",
+        "outputPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\poo-desafio\\DesafioPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iuryh\\AppData\\Roaming\\NuGet\\NuGet.Config"
