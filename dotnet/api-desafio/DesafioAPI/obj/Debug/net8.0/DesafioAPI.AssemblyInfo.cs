@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0e40a3b67b04fb56ced03fb61a34dd88e96f80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+162828236ff6b12a8ebe6460f3772c9b9fb3a0fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
