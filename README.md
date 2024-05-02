@@ -16,6 +16,8 @@ Repositório criado com objetivo de compartilhar e divulgar projetos devolvidos 
 | [Sistema Estacionamento](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/fundamentos-desafio) | Sistema para um estacionamento que armazena as placas dos veículos estacionados, com a possibilidade de adição e remoção, onde ao remover informa o valor cobrado pelo serviço.|
 | [Sistema Hospedagem](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/explorando-desafio) | Sistema para um hotel com funcionalidades para adicionar suítes, hóspedes e informar o valor cobrado pela hospedagem baseado nos dias hospedado e valor da suíte.|
 | [Sistema Celular](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/poo-desafio) | Sistema que trabalha com celulares com paradigma de orientação a objetos com propriedades e herança nas classes Iphone e Nokia.|
+| [API Agendamento de Tarefas](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/api-desafio) | Criação de uma API para um organizador de tarefas interligado a um banco de dados SQL Server utilizando Entity Framework.|
+
 
 ## ![sql-server-icon](/icons/sql-icon.png) SQL
 
