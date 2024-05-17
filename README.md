@@ -17,7 +17,7 @@ Repositório criado com objetivo de compartilhar e divulgar projetos devolvidos 
 | [Sistema para Hospedagem](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/explorando-desafio) | Sistema para um hotel com funcionalidades para adicionar suítes, hóspedes e informar o valor cobrado pela hospedagem baseado nos dias hospedado e valor da suíte.|
 | [Sistema para Celular](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/poo-desafio) | Sistema que trabalha com celulares com paradigma de orientação a objetos com propriedades e herança nas classes Iphone e Nokia.|
 | [API Agendamento de Tarefas](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/api-desafio) | Criação de uma API para um organizador de tarefas interligado a um banco de dados SQL Server utilizando Entity Framework.|
-| [API Cadastro de Funcionários]([https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/api-desafio](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/azure-desafio)) | Criação de uma API para cadastro de funcionários de uma empresa hospedada no Azure usando o App Services e conectada a um banco de dados SQL Server também no Azure, com registro de log das modificações em uma Azure Table.|
+| [API Cadastro de Funcionários](https://github.com/iuryhuebra/projetos_dio/tree/main/dotnet/azure-desafio) | Criação de uma API para cadastro de funcionários de uma empresa hospedada no Azure usando o App Services e conectada a um banco de dados SQL Server também no Azure, com registro de log das modificações em uma Azure Table.|
 
 
 ## ![sql-server-icon](/icons/sql-icon.png) SQL
