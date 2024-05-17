@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\desafioapi\\DesafioAPI.csproj": {}
+    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\DesafioAPI\\DesafioAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\desafioapi\\DesafioAPI.csproj": {
+    "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\DesafioAPI\\DesafioAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\desafioapi\\DesafioAPI.csproj",
+        "projectUniqueName": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\DesafioAPI\\DesafioAPI.csproj",
         "projectName": "DesafioAPI",
-        "projectPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\desafioapi\\DesafioAPI.csproj",
+        "projectPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\DesafioAPI\\DesafioAPI.csproj",
         "packagesPath": "C:\\Users\\iuryh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\desafioapi\\obj\\",
+        "outputPath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\DesafioAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iuryh\\AppData\\Roaming\\NuGet\\NuGet.Config"

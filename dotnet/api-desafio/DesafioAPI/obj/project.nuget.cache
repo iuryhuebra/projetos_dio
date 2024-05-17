@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ne1w3PHdBKrOUIQ0nT4AhUdX+kay+mFTjKBGatnqAQ9lTwyzKemiQe93VteNUMQjDxQChxVREphcQYj7M3JSLA==",
+  "dgSpecHash": "5UipU6ugqgLRNTUOJReZWxIJVZKB1pfmwwDC9IhOWq1GwTSEMNVRv5Qu33CGmfRlLXBDSNR2SoxUor8dfT1EQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\desafioapi\\DesafioAPI.csproj",
+  "projectFilePath": "C:\\Users\\iuryh\\Documents\\cursos_dio\\projetos_dio\\dotnet\\api-desafio\\DesafioAPI\\DesafioAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iuryh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\iuryh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -22,7 +22,7 @@ namespace DesafioAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult ObterPorId(int id)
+        public IActionResult GetId(int id)
         {
             var task = _context.Tasks.Find(id);
 
@@ -32,47 +32,47 @@ namespace DesafioAPI.Controllers
             return Ok(task);
         }
 
-        [HttpGet("ObterTodos")]
-        public IActionResult ObterTodos()
+        [HttpGet("GetAll")]
+        public IActionResult GetAll()
         {
             return Ok(_context.Tasks);
         }
 
-        [HttpGet("ObterPorTitulo")]
-        public IActionResult ObterPorTitulo(string title)
+        [HttpGet("GetTitle/{title}")]
+        public IActionResult GetTitle(string title)
         {
             var tasks = _context.Tasks.Where(x => x.Title == title);
 
             return Ok(tasks);
         }
 
-        [HttpGet("ObterPorData")]
-        public IActionResult ObterPorData(DateTime date)
+        [HttpGet("GetDate/{date}")]
+        public IActionResult GetDate(DateTime date)
         {
             var task = _context.Tasks.Where(x => x.Date.Date == date.Date);
             return Ok(task);
         }
 
-        [HttpGet("ObterPorStatus")]
-        public IActionResult ObterPorStatus(EnumStatusTask status)
+        [HttpGet("GetStatus/{status}")]
+        public IActionResult GetStatus(EnumStatusTask status)
         {
             var task = _context.Tasks.Where(x => x.Status == status);
             return Ok(task);
         }
 
         [HttpPost]
-        public IActionResult Criar(UserTask task)
+        public IActionResult Create(UserTask task)
         {
             if (task.Date == DateTime.MinValue)
                 return BadRequest(new { Erro = "A data da tarefa não pode ser vazia" });
 
             _context.Tasks.Add(task);
             _context.SaveChanges();
-            return CreatedAtAction(nameof(ObterPorId), new { id = task.Id }, task);
+            return CreatedAtAction(nameof(GetId), new { id = task.Id }, task);
         }
 
         [HttpPut("{id}")]
-        public IActionResult Atualizar(int id, UserTask task)
+        public IActionResult Update(int id, UserTask task)
         {
             var taskData = _context.Tasks.Find(id);
 
@@ -93,7 +93,7 @@ namespace DesafioAPI.Controllers
         }
 
         [HttpDelete("{id}")]
-        public IActionResult Deletar(int id)
+        public IActionResult Delete(int id)
         {
             var taskData = _context.Tasks.Find(id);
 
