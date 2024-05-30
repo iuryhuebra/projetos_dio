@@ -23,7 +23,7 @@ Este repositório foi criado com o objetivo de compartilhar e divulgar os projet
 
 | Projeto | Descrição |
 | ------- | ----------|
-| [Página Web Utilizando as Tags Aprendidas](https://github.com/iuryhuebra/projetos_dio/blob/main/html/desafio-1/index.html) | Elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas.|
+| [Página Web Utilizando as Tags Aprendidas](https://github.com/iuryhuebra/projetos_dio/blob/main/html/desafio-1/index.html) | Elaborar um website, utilizando uma estrutura bem básica com tags aprendidas durante as aulas.|
 
 
 ## SQL ![sql-server-icon](/icons/sql-icon.png)
