@@ -23,7 +23,8 @@ Este repositório foi criado com o objetivo de compartilhar e divulgar os projet
 
 | Projeto | Descrição |
 | ------- | ----------|
-| [Página Web Simples](https://github.com/iuryhuebra/projetos_dio/blob/main/html/desafio-1/index.html) | Elaborar um website, utilizando uma estrutura bem básica com tags aprendidas durante as aulas.|
+| [Página Simples](https://github.com/iuryhuebra/projetos_dio/blob/main/html/desafio-1/index.html) | Elaborar um website, utilizando uma estrutura bem básica com tags aprendidas durante as aulas.|
+| [Clínica Médica](https://github.com/iuryhuebra/projetos_dio/blob/main/html/desafio-2) | Criar um site para uma clínica médica, abrangendo formulários, estruturação de texto, mídias e tabelas.|
 
 
 ## SQL ![sql-server-icon](/icons/sql-icon.png)
